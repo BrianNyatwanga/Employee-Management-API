@@ -4,7 +4,7 @@ import com.terahertz.employeemanager.exception.UserNotFoundException;
 import com.terahertz.employeemanager.model.Employee;
 import com.terahertz.employeemanager.repo.EmployeeRepo;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.core.userdetails.UsernameNotFoundException;
+//import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
